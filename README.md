@@ -1,1 +1,1 @@
-# myreactapp
+# ReactJs code snippets
