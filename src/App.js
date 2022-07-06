@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Testing the pull changes from server</h2>
-        <h3>Adding new codes</h3>
+        <h4>Adding new codes, tag changed at server</h4>
         <p>
           Edit <code>src/App.js</code> and save to reload. Testing branching strategy.
         </p>
