@@ -18,6 +18,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload. Testing branching
           strategy.
         </p>
+
+        <p>Edit and save to reload. Testing branching strategy.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
